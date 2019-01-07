@@ -1,1 +1,1 @@
-# sql_hw
+# sql_practice
